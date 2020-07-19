@@ -1,0 +1,2 @@
+-fullscreen -high +exec CS.cfg +fps_max 0 + -limitvsconst -forcenovsync -noforcemparms -r_emulate_gl -limitvsconst  -nod3d9ex -novid -threads 8 -freq 60 -tickrate 128 -nojoy +mat_disable_fancy_blending 1
+-softparticlesdefaultoff
